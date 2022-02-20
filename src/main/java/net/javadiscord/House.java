@@ -14,8 +14,9 @@ public class House {
 	}
 
 	public static void main(String[] args) {
-		configureEclipse(); // uncomment if using eclipse
+		//configureEclipse(); // uncomment if using eclipse
 		var human = new Human("Callum", true);
+		var human2 = new Human("CallumsDad", false, true)
 	}
 
 }
